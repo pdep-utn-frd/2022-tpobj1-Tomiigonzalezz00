@@ -1,10 +1,10 @@
 import wollok.game.*
-import dino.* 
+import Atleta.* 
 
-program dino {
+program atleta {
 
 	juego.configurar()
 	juego.iniciar()
 	game.start()
 
-}
+} 

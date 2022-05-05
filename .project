@@ -32,4 +32,31 @@
 		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
 		<nature>org.uqbar.project.wollok.wollokNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Fondo.png</name>
+			<type>1</type>
+			<location>C:/Users/tomii/OneDrive/Escritorio/Fondo.png</location>
+		</link>
+		<link>
+			<name>src/agua.png</name>
+			<type>1</type>
+			<location>C:/Users/tomii/OneDrive/Escritorio/Energizante.png</location>
+		</link>
+		<link>
+			<name>src/atleta1.png</name>
+			<type>1</type>
+			<location>C:/Users/tomii/OneDrive/Escritorio/atleta.png</location>
+		</link>
+		<link>
+			<name>src/gameover.jpg</name>
+			<type>1</type>
+			<location>C:/Users/tomii/OneDrive/Escritorio/gameover.jpg</location>
+		</link>
+		<link>
+			<name>src/valla.png</name>
+			<type>1</type>
+			<location>C:/Users/tomii/OneDrive/Escritorio/valla.png</location>
+		</link>
+	</linkedResources>
 </projectDescription>

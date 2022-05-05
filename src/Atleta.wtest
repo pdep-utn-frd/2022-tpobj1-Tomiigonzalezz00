@@ -1,4 +1,4 @@
-import dino.*
+import Atleta.*
 
 
 test "pasa el tiempo" {
